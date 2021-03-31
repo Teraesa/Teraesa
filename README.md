@@ -11,3 +11,6 @@ My name is Teraesa , i am a Fullstack Web Developer in the making!
 ## Adding Image
 
 ![forest image](https://jpeg.org/images/jpeg-home.jpg)
+
+## GIF
+![image](https://user-images.githubusercontent.com/75156617/113071871-a9cdf800-9193-11eb-8a3c-97ba765d177c.png)
